@@ -3,4 +3,10 @@
 //git branch -M main  
 //ssh-keygen -t ed25519 -C darwimd23@gmail.com
 
+// git remote -v
+// origin add 
+//git commit -m "initial..."
+// git push -u origin main 
+// 
+
 
